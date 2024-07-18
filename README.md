@@ -5,3 +5,5 @@ but, now I'm going back to refresh my knowledge on Git and Github because I need
 nothing much here :)
 
 just adding this to see how changes apply in Github :)
+
+so, I pulled this repo from Github, opened it in VS Code on my local machine, changed this README.md file and added this line.
